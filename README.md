@@ -6,3 +6,4 @@
   - [ ] create HTML file
   - [ ] VS Code Install & File Save & Show file extention name
   - [ ] HTML Tags + Editor word-wrap
+  - [ ] HTML Heading Tag
