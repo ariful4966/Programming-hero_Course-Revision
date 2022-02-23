@@ -9,3 +9,4 @@
   - [ ] HTML Heading Tag
   - [ ] Anchor + Image Tag with attribute
   - [ ] Ordered and Unordered List
+  - [ ] Input, Button, Div, Br, Hr tags
